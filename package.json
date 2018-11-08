@@ -1,0 +1,14 @@
+{
+  "name": "axios-demo",
+  "version": "0.1.0",
+  "description": "axios demo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "http-server -c-1 -p 8087"
+  },
+  "keywords": [
+    "axios"
+  ],
+  "author": "Joren Broekema (Joren.Broekema@ing.com)",
+  "license": "MIT"
+}
